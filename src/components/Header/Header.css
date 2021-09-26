@@ -1,0 +1,27 @@
+nav{
+    background-color: #40739e;
+    text-align: center;
+}
+.container{
+    width: 100%;
+    max-width: 1290px;
+    margin: 0 auto;
+}
+nav .main-title{
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: #111;    
+    text-align: center;
+    padding: 0.4rem 0;
+}
+nav p{
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: cornsilk;
+}
+nav .salary{
+    font-size: 1.8rem;
+    padding-bottom: 1rem;
+    text-transform: uppercase;
+    color: #111;
+}

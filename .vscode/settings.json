@@ -1,0 +1,73 @@
+{      
+     //Workplatce bakcground Setting
+        "workbench.colorCustomizations": {
+            "sideBar.background": "#040674c9",
+            "editor.foreground": "#00ff00",
+            "activityBar.background": "#0b0c50",
+            "editor.background": "#05022e",
+            "terminal.background": "#05022e",
+            "terminal.border": "#ff0000",
+            "terminal.foreground": "#ff00ff",
+            "editorCursor.foreground": "#00ff00",
+            "terminalCursor.foreground": "#00ff00"
+        },
+        // Rect project workplace JSON
+        // Theme
+        "workbench.colorTheme": "Dracula",
+        // config related to code formatting
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true,
+        "[javascript]": {
+            "editor.formatOnSave": false,
+            "editor.defaultFormatter": null
+        },
+        "[javascriptreact]": {
+            "editor.formatOnSave": false,
+            "editor.defaultFormatter": null
+        },
+        "javascript.validate.enable": false, //disable all built-in syntax checking
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true,
+            "source.fixAll.tslint": true,
+            "source.organizeImports": true
+        },
+        "eslint.alwaysShowStatus": true,
+        // emmet
+        "emmet.triggerExpansionOnTab": true,
+        "emmet.includeLanguages": {
+            "javascript": "javascriptreact"
+        },
+
+        // WorkPlace Comment Color Coustomizstion
+        "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+            "name": "Comment",
+            "scope": [
+                "comment"
+            ],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#00ff00",
+            },
+            }
+        ]
+        },
+        
+        "emmet.extensionsPath": [
+            "javascript",
+            "javascriptreact"
+        ],
+        "eslint.debug": true,
+        "eslint.format.enable": true,
+        "eslint.lintTask.enable": true,
+        "eslint.quiet": true,
+        "editor.smoothScrolling": true,
+        "js/ts.implicitProjectConfig.experimentalDecorators": true,
+        // Edtor All Animation
+        "editor.cursorSmoothCaretAnimation": true,
+        "editor.hideCursorInOverviewRuler": true,
+        "editor.suggest.localityBonus": true,
+        "search.seedWithNearestWord": true,
+        "terminal.integrated.cursorBlinking": true,
+}

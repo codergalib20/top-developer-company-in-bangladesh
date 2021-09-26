@@ -1,0 +1,178 @@
+[
+  {
+    "id": "1",
+    "key" : "123456789KEY0IS1",
+    "name": "SJ INNOVATION LLC",
+    "rating": 5,
+    "clients": "Johnson & Johnson USA",
+    "salary": 5300,
+    "employees": "50 - 249",
+    "location": "Dhaka Bangladesh",
+    "img": "https://i.ibb.co/3T9bQzj/low-angle-view-skyscrapers-1359-1105-1.jpg"
+  },
+  {
+    "id": "2",
+    "key" : "123456789KEY0IS2",
+    "name": "HUDAI",
+    "rating": 5,
+    "clients": "Gazz Consulting LLC",
+    "salary": 3400,
+    "employees": "10 - 49",
+    "location": "Dhaka Bangladesh",
+    "img": "https://i.ibb.co/WgL3nqs/professional-team-programmer-working-project-software-development-computer-it-company-229060-90.jpg"
+  },
+  {
+    "id": "3",
+    "key" : "123456789KEY0IS3",
+    "name": "ENOSIS SOLUTIONS",
+    "rating": 5,
+    "clients": "Crawford and O'Brien LLC",
+    "salary": 6700,
+    "employees": "250 - 999",
+    "location": "Dhaka Bangladesh",
+    "img": "https://i.ibb.co/h1PZPb8/developing-programmer-development-website-design-coding-technologies-working-software-company-office.jpg"
+  },
+  {
+    "id": "4",
+    "key" : "123456789KEY0IS4",
+    "name": "CISIN",
+    "rating": 4.9,
+    "clients": "Spirit Airlines & eBay",
+    "salary": 3000,
+    "employees": "250 - 999",
+    "location": "Dhaka Bangladesh",
+    "img": "https://i.ibb.co/9qXz7mp/businessman-holding-tablet-showing-growing-virtual-hologram-statistics-graph-chart-with-arrow-up-342.jpg"
+  },
+  {
+    "id": "5",
+    "key" : "123456789KEY0IS5",
+    "name": "WPCAMEL",
+    "rating": 5,
+    "clients": "BluePrint Marketing & SEO International Inc.",
+    "salary": 7000,
+    "employees": "10 - 49",
+    "location": "Rajshahi Bangladesh",
+    "img": "https://i.ibb.co/sRg4kpB/1000-F-428640295-mom-O7-Qmzb6-Ymwg-FUX7p-EEe-Wu-Nb-R7y-A0a.jpg"
+  },
+  {
+    "id": "6",
+    "key" : "123456789KEY0IS6",
+    "name": "NOTIONHIVE",
+    "rating": 4.8,
+    "clients": "Krispy Kreme Bangladesh & Grameenphone",
+    "salary": 4300,
+    "employees": "50 - 249",
+    "location": "Dhaka Bangladesh",
+    "img": "https://i.ibb.co/Q6vyyjg/1000-F-356869117-ml-Wcwe-Vux94r75-FZ4-Br-I9aomq-Q501tnd.jpg"
+  },
+  {
+    "id": "7",
+    "key" : "123456789KEY0IS7",
+    "name": "TARGETIV",
+    "rating": 4.4,
+    "clients": "Johnson & Johnson USA",
+    "salary": 6500,
+    "employees": "2 - 9",
+    "location": "ঢাকা Bangladesh",
+    "img": "https://i.ibb.co/8dDxhFW/1000-F-356049725-Uv-W2-FSy-PH4-E0-QR0s-JX8o3-KUKp-KSpzsw-J.jpg"
+  },
+  {
+    "id": "8",
+    "key" : "123456789KEY0IS8",
+    "name": "TARGETIV",
+    "rating": 5,
+    "clients": "Sony & NTT Docomo",
+    "salary": 2300,
+    "employees": "250 - 999",
+    "location": "Dhaka Bangladesh",
+    "img": "https://i.ibb.co/8DkbY8r/1000-F-301702798-Mq-Qu-JWg-Aw-WW8x-X2y-Al0kt-Qsr1mi-Or-Ng4.jpg"
+  },
+  {
+    "id": "9",
+    "key" : "123456789KEY0IS9",
+    "name": "CLOUD TEN LABS",
+    "rating": 5,
+    "clients": "Uber Eats & Calm & Intel",
+    "salary": 6000,
+    "employees": "250 - 999",
+    "location": "Dhaka Bangladesh",
+    "img": "https://i.ibb.co/TT7bbfq/1000-F-250640207-a-Fmkr8a-Lo5-Sbig-OOPCks2k-Gf-Ae-Jec-EK2.jpg"
+  },
+  {
+    "id": "10",
+    "key" : "123456789KEY0IS10",
+    "name": "DCASTALIA LIMITED",
+    "rating": 4.5,
+    "clients": "Johnson & Johnson USA",
+    "salary": 2000,
+    "employees": "10 - 49",
+    "location": "Dhaka Bangladesh",
+    "img": "https://i.ibb.co/D7H2PND/1000-F-195831843-e-Ql06-UVRBOIct-XM4kzu-HCIKASncn-FJgj.jpg"
+  },
+  {
+    "id": "11",
+    "key" : "123456789KEY0IS11",
+    "name": "BIGGESTECH",
+    "rating": 5,
+    "clients": "Sketch",
+    "salary": 4300,
+    "employees": "2 - 9",
+    "location": "Dhaka Bangladesh",
+    "img": "https://i.ibb.co/LvrX0Cz/1000-F-192825974-qu-WLQ3j-Sk7b7k85c-RLy-Aufts3-Vuk-EJ7u.jpg"
+  },
+  {
+    "id": "12",
+    "key" : "123456789KEY0IS12",
+    "name": "PROJANMO IT",
+    "rating": 4.0,
+    "clients": "Axle Properties Ltd & Golden World Ltd.",
+    "salary": 800,
+    "employees": "2 - 9",
+    "location": "Dhaka Bangladesh",
+    "img": "https://i.ibb.co/9Yd0T3z/1000-F-172013830-Pp0-W9-GPhw-FHaxyn-FSK6-HI61-Efe-DRd-Qvt.jpg"
+  },
+  {
+    "id": "13",
+    "key" : "123456789KEY0IS13",
+    "name": "DHURBOK INFOTEXH SERVICES LTD.",
+    "rating": 4.8,
+    "clients": "Justin",
+    "salary": 1700,
+    "employees": "10 - 49",
+    "location": "Dhaka Bangladesh",
+    "img": "https://i.ibb.co/mJhQm07/1000-F-117115901-9-U7-Y1-N6f-Lidd8g1a-Hq-Hzk-ECSJEo-Zyl-Xy.jpg"
+  },
+  {
+    "id": "14",
+    "key" : "123456789KEY0IS14",
+    "name": "BATTERY LOW INTERACTIVE LTD",
+    "rating": 4.5,
+    "clients": "Enerlisa GmbH & Braver",
+    "salary": 5400,
+    "employees": "50 - 249",
+    "location": "Dhaka Bangladesh",
+    "img": "https://i.ibb.co/svmgQkH/500-F-451273762-c-Ro-UJKHVPz5-KDPtehotw-Z6vk6-HGEq9-T8.jpg"
+  },
+  {
+    "id": "15",
+    "key" : "123456789KEY0IS15",
+    "name": "RAJESH DEY",
+    "rating": 5,
+    "clients": "World choose",
+    "salary": 500,
+    "employees": "Freelancer",
+    "location": "Chottogram, Bangladesh",
+    "img": "https://i.ibb.co/K6nZrHx/500-F-444045985-Sfvl-C3cxh48-Hzq-DKDOLAW4-PJEKDDfd-Xp.jpg"
+  },
+  {
+    "id": "16",
+    "key" : "123456789KEY0IS16",
+    "name": "BIZCOPE",
+    "rating": 4.9,
+    "clients": "Maasranga & Banlgadesh Brand Forum",
+    "salary": 2000,
+    "employees": "50 - 249",
+    "location": "Dhaka Bangladesh",
+    "img": "https://i.ibb.co/BwbvTzk/500-F-115834383-8y-Zei6-Y7b3-Jnh-NCAn-Wz-Ks-WLRkq-Wj-Ho-KF.jpg"
+  }
+]

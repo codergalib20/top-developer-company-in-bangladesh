@@ -1,0 +1,23 @@
+.container{
+    width: 100%;
+    max-width: 1190px;
+    margin: 0 auto;
+}
+.companies .container{
+    margin-block-start: 2rem;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.company{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+}
+.card{
+    padding: 0 1rem;
+}
+/*
+=======================================
+           Responsive Section
+=======================================
+*/
