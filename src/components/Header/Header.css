@@ -7,10 +7,34 @@ nav{
     max-width: 1290px;
     margin: 0 auto;
 }
+nav .header-top{
+    background: #fff;
+    padding: 1rem 0;
+}
+nav .header-top ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+}
+.header-top ul li{
+    margin: 0 1rem;
+    font-size: 1.2rem;
+    color: #111;
+    text-transform: capitalize;
+    cursor: pointer;
+    transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    -ms-transition: all 0.3s linear;
+    -moz-transition: all 0.3s linear;
+}
+.header-top ul li:hover{
+    color: #e83a3b;
+}
 nav .main-title{
     font-size: 2rem;
     text-transform: uppercase;
-    color: #111;    
+    color: #fff;    
     text-align: center;
     padding: 0.4rem 0;
 }
@@ -23,5 +47,5 @@ nav .salary{
     font-size: 1.8rem;
     padding-bottom: 1rem;
     text-transform: uppercase;
-    color: #111;
+    color: #fff;
 }

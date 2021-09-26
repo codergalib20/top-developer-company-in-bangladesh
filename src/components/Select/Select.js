@@ -1,5 +1,5 @@
 import React from 'react';
-import './Select.css'
+import './Select.css';
 const Select = ( props ) => {
     return (
         <div className="select-name">

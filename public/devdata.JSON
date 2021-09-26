@@ -163,16 +163,5 @@
     "employees": "Freelancer",
     "location": "Chottogram, Bangladesh",
     "img": "https://i.ibb.co/K6nZrHx/500-F-444045985-Sfvl-C3cxh48-Hzq-DKDOLAW4-PJEKDDfd-Xp.jpg"
-  },
-  {
-    "id": "16",
-    "key" : "123456789KEY0IS16",
-    "name": "BIZCOPE",
-    "rating": 4.9,
-    "clients": "Maasranga & Banlgadesh Brand Forum",
-    "salary": 2000,
-    "employees": "50 - 249",
-    "location": "Dhaka Bangladesh",
-    "img": "https://i.ibb.co/BwbvTzk/500-F-115834383-8y-Zei6-Y7b3-Jnh-NCAn-Wz-Ks-WLRkq-Wj-Ho-KF.jpg"
   }
 ]
